@@ -4,7 +4,8 @@ This project includes two distinct scripts for working with Datadog services. Th
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/release)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)
-[![Issues](https://img.shields.io/github/issues/YourUsername/YourRepository.svg)](https://github.com/YourUsername/YourRepository/issues)
+[![Datadog Integration](https://img.shields.io/badge/Datadog-Integrated-blue.svg)](https://www.datadoghq.com/)
+
 
 
 ## datadog_query.py
